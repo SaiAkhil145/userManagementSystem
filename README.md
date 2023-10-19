@@ -91,7 +91,7 @@ Make sure you have the following prerequisites installed:
 2. Navigate to the project directory
 
     ```bash
-    cd user-management-app
+    cd userManagementSystem
 
 ## Usage
 
