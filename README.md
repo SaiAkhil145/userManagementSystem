@@ -51,7 +51,7 @@ This section houses the `APIController` class, which provides API endpoints for 
 - `POST /user`: Adds a new user. Accepts a user object in the request body.
 - `GET /user/{id}/id`: Retrieves user information by user ID.
 - `GET /users`: Retrieves a list of all users.
-- `PUT /update/id/info`: Updates user information. Accepts user ID and optional parameters for name, username, address, and phone number.
+- `PUT /update/{id}/info`: Updates user information. Accepts user ID and optional parameters for name, username, address, and phone number.
 - `DELETE /user/{id}/id`: Deletes a user by user ID.
 
 note: for further understanding you can use Swagger Ui at http://localhost:8080/swagger-ui/index.html# if your running the app in localHost
