@@ -86,7 +86,7 @@ Make sure you have the following prerequisites installed:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone 
+   git clone https://github.com/SaiAkhil145/userManagementSystem
    
 2. Navigate to the project directory
 
